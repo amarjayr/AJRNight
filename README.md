@@ -1,5 +1,5 @@
 # AJRNight
-Lightweight iOS froamework for adding night mode to projects
+Lightweight iOS framework for adding night mode to projects
 
 
 ----------
