@@ -7,7 +7,7 @@ Lightweight iOS froamework for adding night mode to projects
 
  - Using **Cocoapods** just add this to your podfile:
 
-> pod 'AJRNight', :git => 'https://github.com/AmarJayR/AJRNight.git'
+> pod 'AJRNight'
 
  - Manual Installation:
  
