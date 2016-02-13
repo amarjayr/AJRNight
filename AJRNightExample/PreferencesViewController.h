@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+
 @import AJRNight;
 
 @interface PreferencesViewController : UIViewController <AJRNightDelegate>
