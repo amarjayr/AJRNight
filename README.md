@@ -5,7 +5,7 @@ Lightweight iOS framework for adding night mode to projects
 ----------
 #Installation
 
- - Using **Cocoapods** just add this to your podfile:
+ - Using **CocoaPods** just add this to your podfile:
 
 > pod 'AJRNight'
 
